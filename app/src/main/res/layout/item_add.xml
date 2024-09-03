@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddNews">
+
+    <!--Edittext for getting course Name-->
+    <EditText
+        android:id="@+id/idEdtNewsTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:hint="News Title"
+        android:importantForAutofill="no"
+        android:inputType="text" />
+
+    <!--Edittext for getting course Duration-->
+    <EditText
+        android:id="@+id/idEdtNewsArticle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:hint="The Article"
+        android:importantForAutofill="no"
+        android:inputType="text" />
+
+    <!--Edittext for getting course Description-->
+    <TextView
+        android:id="@+id/idEdtImageNews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:text="Upload Image"
+        android:clickable="true"
+        android:onClick="UploadImage"
+        android:importantForAutofill="no" />
+
+    <!--Button for adding your course to Firebase-->
+    <Button
+        android:id="@+id/idBtnSubmitNews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Submit News"
+        android:textAllCaps="false" />
+
+</LinearLayout>

@@ -1,0 +1,372 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		news_screen
+	 *	@date 		Saturday 09th of December 2023 12:28:11 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/news_screen" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_news_screen_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__news_screen_ek2"
+					android:background="@drawable/_bg__news_screen_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="390dp"
+					android:layout_height="844dp" />
+
+
+				<RelativeLayout android:id="@+id/frame_240"
+					android:layout_marginTop="62dp"
+					android:layout_marginStart="5dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/menu_profil"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="41dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/unsplash__h6wpor9mjs"
+							android:src="@drawable/unsplash__h6wpor9mjs"
+							android:contentDescription="unsplash__h6wpor9mjs"
+							 android:layout_marginStart="4dp"
+							android:layout_marginTop="4dp"
+							android:layout_width="36dp"
+							android:layout_height="36dp" />
+
+					</RelativeLayout>
+
+					<TextView android:id="@+id/text"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="20sp"
+						android:textColor="@color/_bg__frame_240_ek1_color"
+						android:layout_marginLeft="187dp"
+						android:layout_marginTop="11dp"
+						android:layout_width="7dp"
+						android:layout_height="28dp"
+						android:text="@string/text_string"
+						 />
+
+
+					<RelativeLayout android:id="@+id/notification_button"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="295dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/_bg__notification_button_ek1"
+							android:background="@drawable/_bg__notification_button_ek1_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="44dp"
+							android:layout_height="44dp" />
+
+						<ImageView android:id="@+id/combo_shape"
+							android:src="@drawable/combo_shape"
+							android:contentDescription="combo_shape"
+							 android:layout_marginStart="13.5dp"
+							android:layout_marginTop="12dp"
+							android:layout_width="17dp"
+							android:layout_height="20dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/card"
+					android:layout_marginTop="116dp"
+					android:layout_marginStart="10dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_8"
+						android:background="@drawable/rectangle_8_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="370dp"
+						android:layout_height="338dp" />
+
+
+					<RelativeLayout android:id="@+id/frame_243"
+						android:layout_marginTop="50dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/unsplash_mbqifklvowm"
+							android:src="@drawable/unsplash_mbqifklvowm"
+							android:contentDescription="unsplash_mbqifklvowm"
+							 android:layout_marginStart="10dp"
+							android:layout_marginTop="10dp"
+							android:layout_width="350dp"
+							android:layout_height="268dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/frame_242"
+						android:layout_marginTop="281dp"
+						android:layout_marginStart="10dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View
+							android:id="@+id/_bg__frame_242_ek1"
+							android:layout_width="350dp"
+							android:layout_height="47dp"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:background="@color/_bg__menu_profil_ek1_color" />
+
+						<TextView
+							android:id="@+id/puma_computing_2023"
+							android:layout_width="134dp"
+							android:layout_height="36dp"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="7dp"
+							android:layout_marginTop="2dp"
+							android:gravity="center"
+							android:text="@string/puma_computing_2023_string"
+							android:textColor="@color/black"
+							android:textStyle="bold" />
+
+						<TextView
+							android:id="@+id/unlock_your_educational_journey_in_2023__registration"
+							android:layout_width="249.9dp"
+							android:layout_height="18.9dp"
+							android:layout_marginLeft="125dp"
+							android:layout_marginTop="3dp"
+							android:text="@string/unlock_your_educational_journey_in_2023__registration_string"
+							android:textColor="@color/black" />
+
+						<TextView
+							android:id="@+id/now_open_for_cloudeka_digischool_scholarships___digischool2023"
+							android:layout_width="346.9dp"
+							android:layout_height="19.9dp"
+							android:layout_marginLeft="8dp"
+							android:layout_marginTop="17dp"
+							android:text="@string/now_open_for_cloudeka_digischool_scholarships___digischool2023_string"
+							android:textColor="@color/black" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/avatar"
+						android:layout_marginTop="10dp"
+						android:layout_marginStart="20dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+
+						<RelativeLayout android:id="@+id/avatar_ek2"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<View   android:id="@+id/ellipse_250"
+								android:background="@drawable/ellipse_250_shape"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="40dp"
+								android:layout_height="40dp" />
+
+							<ImageView android:id="@+id/unsplash__h6wpor9mjs_ek1"
+								android:src="@drawable/unsplash__h6wpor9mjs_ek1"
+								android:contentDescription="unsplash__h6wpor9mjs_ek1"
+								 android:layout_marginStart="2dp"
+								android:layout_marginTop="2dp"
+								android:layout_width="36dp"
+								android:layout_height="36dp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+					<TextView android:id="@+id/puma_computing_2023_ek1"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="15sp"
+						android:textColor="@color/_bg__frame_240_ek1_color"
+						android:layout_marginLeft="66dp"
+						android:layout_marginTop="19dp"
+						android:layout_width="177dp"
+						android:layout_height="26.5dp"
+						android:text="@string/puma_computing_2023_ek1_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/card_ek2"
+					android:layout_marginTop="464dp"
+					android:layout_marginStart="10dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_8_ek1"
+						android:background="@drawable/rectangle_8_ek1_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="370dp"
+						android:layout_height="338dp" />
+
+
+					<RelativeLayout android:id="@+id/frame_243_ek2"
+						android:layout_marginTop="50dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/unsplash_mbqifklvowm_ek1"
+							android:src="@drawable/unsplash_mbqifklvowm_ek1"
+							android:contentDescription="unsplash_mbqifklvowm_ek1"
+							 android:layout_marginStart="10dp"
+							android:layout_marginTop="10dp"
+							android:layout_width="350dp"
+							android:layout_height="268dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/frame_242_ek2"
+						android:layout_marginTop="281dp"
+						android:layout_marginStart="10dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View
+							android:id="@+id/_bg__frame_242_ek3"
+							android:layout_width="350dp"
+							android:layout_height="47dp"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:background="@color/_bg__menu_profil_ek1_color" />
+
+						<TextView
+							android:id="@+id/puma_computing_2023_ek2"
+							android:layout_width="129dp"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="7dp"
+							android:layout_marginTop="2dp"
+							android:gravity="center"
+							android:text="@string/puma_computing_2023_ek2_string"
+							android:textColor="@color/black"
+							android:textStyle="bold" />
+
+						<TextView
+							android:id="@+id/unlock_your_educational_journey_in_2023__registration_ek1"
+							android:layout_width="213dp"
+							android:layout_height="17dp"
+							android:layout_marginLeft="125dp"
+							android:layout_marginTop="3dp"
+							android:text="@string/unlock_your_educational_journey_in_2023__registration_ek1_string"
+							android:textColor="@color/black" />
+
+						<TextView
+							android:id="@+id/now_open_for_cloudeka_digischool_scholarships___digischool2023_ek1"
+							android:layout_width="346.9dp"
+							android:layout_height="19.9dp"
+							android:layout_marginLeft="8dp"
+							android:layout_marginTop="17dp"
+							android:text="@string/now_open_for_cloudeka_digischool_scholarships___digischool2023_ek1_string"
+							android:textColor="@color/black" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/avatar_ek4"
+						android:layout_marginTop="10dp"
+						android:layout_marginStart="20dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+
+						<RelativeLayout android:id="@+id/avatar_ek6"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<View   android:id="@+id/ellipse_250_ek1"
+								android:background="@drawable/ellipse_250_ek1_shape"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="40dp"
+								android:layout_height="40dp" />
+
+							<ImageView android:id="@+id/unsplash__h6wpor9mjs_ek2"
+								android:src="@drawable/unsplash__h6wpor9mjs_ek2"
+								android:contentDescription="unsplash__h6wpor9mjs_ek2"
+								 android:layout_marginStart="2dp"
+								android:layout_marginTop="2dp"
+								android:layout_width="36dp"
+								android:layout_height="36dp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+					<TextView android:id="@+id/puma_computing_2023_ek3"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="15sp"
+						android:textColor="@color/_bg__frame_240_ek1_color"
+						android:layout_marginLeft="66dp"
+						android:layout_marginTop="19dp"
+						android:layout_width="177dp"
+						android:layout_height="26.5dp"
+						android:text="@string/puma_computing_2023_ek3_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

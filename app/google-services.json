@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839540877820",
+    "project_id": "databasefp-74770",
+    "storage_bucket": "databasefp-74770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839540877820:android:4b9f84ba4a1cee568e2a79",
+        "android_client_info": {
+          "package_name": "com.example.wmp_finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfTquf5mAhpv3srRHOSmveNwfibi7tEeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

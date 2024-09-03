@@ -1,0 +1,810 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/scrollView2"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		home_screen
+     *	@date 		Saturday 09th of December 2023 10:34:27 AM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+
+
+	<androidx.recyclerview.widget.RecyclerView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent" />
+
+	<ScrollView
+		android:id="@+id/scrollView4"
+		android:layout_width="match_parent"
+		android:layout_height="729dp"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent">
+
+		<RelativeLayout
+			android:id="@+id/page_home_screen_ek1"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+
+			<View
+				android:id="@+id/_bg__home_screen_ek2"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:background="@drawable/_bg__home_screen_ek2_shape" />
+
+
+			<androidx.cardview.widget.CardView
+				android:id="@+id/card"
+				android:layout_width="378dp"
+				android:layout_height="350dp"
+
+				android:layout_marginStart="15dp"
+				android:layout_marginTop="231dp"
+				android:layout_marginEnd="-237dp">
+
+
+				<View
+					android:id="@+id/rectangle_8"
+					android:layout_width="match_parent"
+					android:layout_height="338dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:background="@drawable/rectangle_8_shape" />
+
+
+				<RelativeLayout
+					android:id="@+id/frame_243"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="50dp">
+
+					<View
+						android:id="@+id/_bg__frame_243_ek1"
+						android:layout_width="370dp"
+						android:layout_height="288dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp" />
+
+					<ImageView
+						android:id="@+id/unsplash_mbqifklvowm"
+						android:layout_width="350dp"
+						android:layout_height="268dp"
+						android:layout_marginStart="15dp"
+						android:layout_marginTop="10dp"
+						android:contentDescription="unsplash_mbqifklvowm"
+						android:src="@drawable/unsplash_mbqifklvowm" />
+
+				</RelativeLayout>
+
+
+				<TextView
+					android:id="@+id/textView"
+					android:layout_width="186dp"
+					android:layout_height="32dp"
+					android:layout_marginStart="71dp"
+					android:layout_marginTop="20dp"
+					android:layout_marginEnd="119dp"
+					android:text="PUMA COMPUTING 2023"
+					android:textStyle="bold" />
+
+				<RelativeLayout
+					android:id="@+id/frame_2421"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="15dp"
+					android:layout_marginTop="281dp">
+
+
+					<View
+						android:id="@+id/_bg__frame_242_ek12"
+						android:layout_width="350dp"
+						android:layout_height="47dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/radius2"
+						android:foregroundGravity="bottom"
+						android:visibility="visible"
+						tools:ignore="NotSibling" />
+
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/avatar"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="20dp"
+					android:layout_marginTop="10dp">
+
+
+					<RelativeLayout
+						android:id="@+id/avatar_ek2"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp">
+
+
+						<View
+							android:id="@+id/ellipse_250"
+							android:layout_width="40dp"
+							android:layout_height="40dp"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:background="@drawable/ellipse_250_shape" />
+
+						<ImageView
+							android:id="@+id/unsplash__h6wpor9mjs"
+							android:layout_width="36dp"
+							android:layout_height="36dp"
+							android:layout_marginStart="2dp"
+							android:layout_marginTop="2dp"
+							android:contentDescription="unsplash__h6wpor9mjs"
+							android:src="@drawable/unsplash__h6wpor9mjs" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+			</androidx.cardview.widget.CardView>
+
+			<RelativeLayout
+				android:id="@+id/card2"
+				android:layout_width="380dp"
+				android:layout_height="346dp"
+
+				android:layout_marginStart="15dp"
+				android:layout_marginTop="925dp"
+				android:layout_marginEnd="-237dp">
+
+
+				<View
+					android:id="@+id/rectangle_18"
+					android:layout_width="match_parent"
+					android:layout_height="338dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:background="@drawable/rectangle_8_shape" />
+
+
+				<RelativeLayout
+					android:id="@+id/frame_245"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="50dp">
+
+					<View
+						android:id="@+id/_bg__frame_243_ek11"
+						android:layout_width="370dp"
+						android:layout_height="288dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp" />
+
+					<ImageView
+						android:id="@+id/unsplash_mbqifklvowm1"
+						android:layout_width="350dp"
+						android:layout_height="268dp"
+						android:layout_marginStart="15dp"
+						android:layout_marginTop="10dp"
+						android:contentDescription="unsplash_mbqifklvowm"
+						android:src="@drawable/news3" />
+
+				</RelativeLayout>
+
+
+				<TextView
+					android:id="@+id/textView90"
+					android:layout_width="186dp"
+					android:layout_height="32dp"
+					android:layout_alignParentStart="true"
+					android:layout_alignParentTop="true"
+					android:layout_alignParentEnd="true"
+					android:layout_marginStart="71dp"
+					android:layout_marginTop="20dp"
+					android:layout_marginEnd="119dp"
+					android:text="PUMA COMPUTING 2023"
+					android:textStyle="bold" />
+
+				<RelativeLayout
+					android:id="@+id/frame_242"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="15dp"
+					android:layout_marginTop="281dp">
+
+
+					<View
+						android:id="@+id/_bg__frame_242_ek1"
+						android:layout_width="350dp"
+						android:layout_height="47dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/radius2"
+						android:foregroundGravity="bottom"
+						android:visibility="visible"
+						tools:ignore="NotSibling" />
+
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/avatar3"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="20dp"
+					android:layout_marginTop="10dp">
+
+
+					<RelativeLayout
+						android:id="@+id/avatar_ek23"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp">
+
+
+						<View
+							android:id="@+id/ellipse_2501"
+							android:layout_width="40dp"
+							android:layout_height="40dp"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:background="@drawable/ellipse_250_shape" />
+
+						<ImageView
+							android:id="@+id/unsplash__h6wpor9mjs1"
+							android:layout_width="36dp"
+							android:layout_height="36dp"
+							android:layout_marginStart="2dp"
+							android:layout_marginTop="2dp"
+							android:contentDescription="unsplash__h6wpor9mjs"
+							android:src="@drawable/unsplash__h6wpor9mjs" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+			</RelativeLayout>
+
+			<View
+				android:id="@+id/rectangle_9"
+				android:layout_width="380dp"
+				android:layout_height="131dp"
+				android:layout_marginStart="15dp"
+				android:layout_marginTop="583dp"
+				android:background="@drawable/rectangle_9_shape" />
+
+			<View
+				android:id="@+id/rectangle_15"
+				android:layout_width="380dp"
+				android:layout_height="138dp"
+				android:layout_marginStart="15dp"
+				android:layout_marginTop="760dp"
+				android:background="@drawable/rectangle_9_shape" />
+
+			<TextView
+				android:id="@+id/anonim"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentStart="true"
+				android:layout_alignParentTop="true"
+				android:layout_alignParentEnd="true"
+				android:layout_marginStart="81dp"
+				android:layout_marginTop="605dp"
+				android:layout_marginEnd="241dp"
+				android:text="Anonymus"
+				android:textStyle="bold" />
+
+			<View
+				android:id="@+id/border"
+				android:layout_width="40dp"
+				android:layout_height="40dp"
+				android:layout_marginStart="30dp"
+				android:layout_marginTop="775dp"
+				android:background="@drawable/ellipse_250_ek1_shape" />
+
+			<ImageView
+				android:id="@+id/ppmenfess2"
+				android:layout_width="36dp"
+				android:layout_height="36dp"
+				android:layout_marginStart="32dp"
+				android:layout_marginTop="776dp"
+				android:contentDescription="unsplash__h6wpor9mjs_ek1"
+				android:src="@drawable/lucaur" />
+
+			<TextView
+				android:id="@+id/textView3"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentStart="true"
+				android:layout_alignParentTop="true"
+				android:layout_alignParentEnd="true"
+				android:layout_marginStart="81dp"
+				android:layout_marginTop="782dp"
+				android:layout_marginEnd="241dp"
+				android:text="Anonymus"
+				android:textStyle="bold" />
+
+			<View
+				android:id="@+id/unsplash_mbqifklvowm_ek1"
+				android:layout_width="376dp"
+				android:layout_height="109dp"
+				android:layout_marginStart="19dp"
+				android:layout_marginTop="111dp"
+				android:background="@drawable/radius"
+				android:clickable="true"
+				android:onClick="CalendarEvent" />
+
+			<View
+				android:id="@+id/unsplash_mbqifklvowm_ek2"
+				android:layout_width="350dp"
+				android:layout_height="105dp"
+				android:layout_marginStart="23dp"
+				android:layout_marginTop="637dp"
+				android:background="@drawable/unsplash_mbqifklvowm_ek2_shape" />
+
+			<View
+				android:id="@+id/menfess"
+				android:layout_width="350dp"
+				android:layout_height="80dp"
+				android:layout_marginStart="23dp"
+				android:layout_marginTop="820dp"
+				android:background="@drawable/unsplash_mbqifklvowm_ek2_shape" />
+
+
+			<RelativeLayout
+				android:id="@+id/avatar_ek4"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="30dp"
+				android:layout_marginTop="596dp">
+
+
+				<RelativeLayout
+					android:id="@+id/avatar_ek6"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp">
+
+
+					<View
+						android:id="@+id/ellipse_250_ek1"
+						android:layout_width="40dp"
+						android:layout_height="40dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/ellipse_250_ek1_shape" />
+
+					<ImageView
+						android:id="@+id/unsplash__h6wpor9mjs_ek1"
+						android:layout_width="36dp"
+						android:layout_height="36dp"
+						android:layout_marginStart="2dp"
+						android:layout_marginTop="2dp"
+						android:contentDescription="unsplash__h6wpor9mjs_ek1"
+						android:src="@drawable/lucaur2" />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+			<View
+				android:id="@+id/rectangle_10"
+				android:layout_width="69dp"
+				android:layout_height="71dp"
+				android:layout_marginStart="50dp"
+				android:layout_marginTop="129dp"
+				android:background="@drawable/rectangle_10_shape" />
+
+			<View
+				android:id="@+id/rectangle_11"
+				android:layout_width="69dp"
+				android:layout_height="71dp"
+				android:layout_marginStart="131dp"
+				android:layout_marginTop="129dp"
+				android:background="@drawable/rectangle_11_shape" />
+
+			<View
+				android:id="@+id/rectangle_12"
+				android:layout_width="69dp"
+				android:layout_height="71dp"
+				android:layout_marginStart="212dp"
+				android:layout_marginTop="129dp"
+				android:background="@drawable/rectangle_12_shape" />
+
+			<View
+				android:id="@+id/rectangle_13"
+				android:layout_width="69dp"
+				android:layout_height="71dp"
+				android:layout_marginStart="292dp"
+				android:layout_marginTop="129dp"
+				android:background="@drawable/rectangle_13_shape" />
+
+			<TextView
+				android:id="@+id/textView9"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_10"
+				android:layout_alignEnd="@+id/rectangle_10"
+				android:layout_alignBottom="@+id/rectangle_10"
+				android:layout_marginStart="5dp"
+				android:layout_marginEnd="6dp"
+				android:layout_marginBottom="51dp"
+				android:gravity="center"
+				android:text="CSGO"
+				android:textSize="11.5sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView12"
+				android:layout_width="108dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_11"
+				android:layout_alignEnd="@+id/rectangle_11"
+				android:layout_alignBottom="@+id/rectangle_11"
+				android:layout_marginStart="-17dp"
+				android:layout_marginEnd="-18dp"
+				android:layout_marginBottom="51dp"
+				android:gravity="center"
+				android:text="COMPCLUB"
+				android:textSize="11.5sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView15"
+				android:layout_width="64dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_12"
+				android:layout_alignEnd="@+id/rectangle_12"
+				android:layout_alignBottom="@+id/rectangle_12"
+				android:layout_marginStart="2dp"
+				android:layout_marginEnd="3dp"
+				android:layout_marginBottom="51dp"
+				android:gravity="center"
+				android:text="SOSPRO"
+				android:textSize="11.5sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView18"
+				android:layout_width="64dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_13"
+				android:layout_alignEnd="@+id/rectangle_13"
+				android:layout_alignBottom="@+id/rectangle_13"
+				android:layout_marginStart="2dp"
+				android:layout_marginEnd="3dp"
+				android:layout_marginBottom="51dp"
+				android:gravity="center"
+				android:text="COMPSTUD"
+				android:textSize="11.5sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView19"
+				android:layout_width="64dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_13"
+				android:layout_alignEnd="@+id/rectangle_13"
+				android:layout_alignBottom="@+id/rectangle_13"
+				android:layout_marginStart="2dp"
+				android:layout_marginEnd="3dp"
+				android:layout_marginBottom="51dp"
+				android:gravity="center"
+				android:text="COMPSTUD"
+				android:textSize="11.5sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView24"
+				android:layout_width="64dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_13"
+				android:layout_alignEnd="@+id/rectangle_13"
+				android:layout_alignBottom="@+id/rectangle_13"
+				android:layout_marginStart="1dp"
+				android:layout_marginEnd="4dp"
+				android:layout_marginBottom="4dp"
+				android:gravity="center"
+				android:text="AUGUST"
+				android:textSize="11.5sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView23"
+				android:layout_width="64dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_13"
+				android:layout_alignEnd="@+id/rectangle_13"
+				android:layout_alignBottom="@+id/rectangle_13"
+				android:layout_marginStart="2dp"
+				android:layout_marginEnd="3dp"
+				android:layout_marginBottom="19dp"
+				android:gravity="center"
+				android:text="18"
+				android:textSize="24sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView17"
+				android:layout_width="64dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_12"
+				android:layout_alignEnd="@+id/rectangle_12"
+				android:layout_alignBottom="@+id/rectangle_12"
+				android:layout_marginStart="2dp"
+				android:layout_marginEnd="3dp"
+				android:layout_marginBottom="4dp"
+				android:gravity="center"
+				android:text="JUNE"
+				android:textSize="11.5sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView16"
+				android:layout_width="64dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_12"
+				android:layout_alignEnd="@+id/rectangle_12"
+				android:layout_alignBottom="@+id/rectangle_12"
+				android:layout_marginStart="2dp"
+				android:layout_marginEnd="3dp"
+				android:layout_marginBottom="19dp"
+				android:gravity="center"
+				android:text="22"
+				android:textSize="24sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView14"
+				android:layout_width="108dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_11"
+				android:layout_alignEnd="@+id/rectangle_11"
+				android:layout_alignBottom="@+id/rectangle_11"
+				android:layout_marginStart="-17dp"
+				android:layout_marginEnd="-15dp"
+				android:layout_marginBottom="4dp"
+				android:gravity="center"
+				android:text="APRIL"
+				android:textSize="11.5sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView13"
+				android:layout_width="108dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_11"
+				android:layout_alignEnd="@+id/rectangle_11"
+				android:layout_alignBottom="@+id/rectangle_11"
+				android:layout_marginStart="-16dp"
+				android:layout_marginEnd="-15dp"
+				android:layout_marginBottom="19dp"
+				android:gravity="center"
+				android:text="15"
+				android:textSize="24sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView11"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_10"
+				android:layout_alignEnd="@+id/rectangle_10"
+				android:layout_alignBottom="@+id/rectangle_10"
+				android:layout_marginStart="5dp"
+				android:layout_marginEnd="6dp"
+				android:layout_marginBottom="4dp"
+				android:gravity="center"
+				android:text="FEBRUARY"
+				android:textSize="11sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView10"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/rectangle_10"
+				android:layout_alignEnd="@+id/rectangle_10"
+				android:layout_alignBottom="@+id/rectangle_10"
+				android:layout_marginStart="5dp"
+				android:layout_marginEnd="6dp"
+				android:layout_marginBottom="19dp"
+				android:gravity="center"
+				android:text="16"
+				android:textSize="24sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView34"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="50dp"
+				android:layout_marginTop="515dp"
+				android:layout_marginRight="30dp"
+				android:fontFamily="@font/archivo_bold"
+				android:text="PUMA COMPUTING 2023"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView341"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="50dp"
+				android:layout_marginTop="1210dp"
+				android:layout_marginRight="30dp"
+				android:fontFamily="@font/archivo_bold"
+				android:text="PUMA COMPUTING 2023"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/textView351"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="225dp"
+				android:layout_marginTop="1210dp"
+				android:layout_marginRight="35dp"
+				android:fontFamily="@font/archivo_semibold"
+				android:text="Bangkit Kampus"
+				android:textSize="13sp" />
+
+			<TextView
+				android:id="@+id/textView361"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="50dp"
+				android:layout_marginTop="1230dp"
+				android:layout_marginRight="20dp"
+				android:fontFamily="@font/archivo_semibold"
+				android:text="Merdeka is now open for registration"
+				android:textSize="13sp" />
+
+			<TextView
+				android:id="@+id/textView35"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="225dp"
+				android:layout_marginTop="515dp"
+				android:layout_marginRight="35dp"
+				android:fontFamily="@font/archivo_semibold"
+				android:text="Unlock your educational."
+				android:textSize="13sp" />
+
+			<TextView
+				android:id="@+id/textView36"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="50dp"
+				android:layout_marginTop="534dp"
+				android:layout_marginRight="20dp"
+				android:fontFamily="@font/archivo_semibold"
+				android:text="Registration now for the scholarships.#DigiSchool"
+				android:textSize="13sp" />
+
+			<TextView
+				android:id="@+id/textView37"
+				android:layout_width="320dp"
+				android:layout_height="100dp"
+				android:layout_marginLeft="40dp"
+				android:layout_marginTop="646dp"
+				android:layout_marginRight="40dp"
+				android:fontFamily="@font/archivo_semibold"
+				android:lineSpacingExtra="4sp"
+				android:text="Halo kak! Aku lagi kepikiran banget nih pengen gabung di PUMA IT, tapi ada satu hal yang bikin aku agak bingung, soalnya aku belum punya pengalaman sama sekali. Ada nggak tips dari kakak buat aku yang mau masuk ke dunia organisasi?"
+				android:textSize="12.5sp" />
+
+
+			<TextView
+				android:id="@+id/textView38"
+				android:layout_width="320dp"
+				android:layout_height="100dp"
+				android:layout_marginLeft="40dp"
+				android:layout_marginTop="830dp"
+				android:layout_marginRight="40dp"
+				android:fontFamily="@font/archivo_semibold"
+				android:lineSpacingExtra="4sp"
+				android:text="'Santai dulu gasie' giliran h-2 langsung ketar ketir. Kodingan langsung error semua, siapa lagi klo bukan anak IT :)"
+				android:textSize="12.5sp" />
+
+
+		</RelativeLayout>
+	</ScrollView>
+
+	<androidx.cardview.widget.CardView
+		android:id="@+id/frame_240"
+		android:layout_width="0dp"
+		android:layout_height="60dp"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		app:layout_constraintVertical_bias="0.0">
+
+		<View
+			android:id="@+id/_bg__frame_240_ek1"
+			android:layout_width="match_parent"
+			android:layout_height="60dp"
+			android:layout_alignParentStart="true"
+			android:layout_alignParentTop="true"
+			android:layout_alignParentEnd="true"  />
+
+		<RelativeLayout
+			android:id="@+id/menu_profil"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="10dp"
+			android:layout_marginTop="6dp"
+			android:layout_alignParentStart="true"
+			android:layout_alignParentTop="true"
+			android:layout_alignParentEnd="true">
+
+			<View
+				android:id="@+id/_bg__menu_profil_ek1"
+				android:layout_width="44dp"
+				android:layout_height="44dp"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:background="@drawable/_bg__menu_profil_ek1_shape" />
+
+			<ImageView
+				android:id="@+id/ellipse_251"
+				android:layout_width="37dp"
+				android:layout_height="37dp"
+				android:layout_marginStart="3.5dp"
+				android:layout_marginTop="3.5dp"
+				android:contentDescription="ellipse_251"
+				android:src="@drawable/ellipse_251" />
+
+		</RelativeLayout>
+
+		<RelativeLayout
+			android:id="@+id/notification_button"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="355dp"
+			android:layout_marginTop="6dp">
+
+			<View
+				android:id="@+id/_bg__notification_button_ek1"
+				android:layout_width="44dp"
+				android:layout_height="44dp"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:background="@drawable/_bg__notification_button_ek1_shape" />
+
+			<ImageView
+				android:id="@+id/combo_shape"
+				android:layout_width="17dp"
+				android:layout_height="20dp"
+				android:layout_marginStart="13.5dp"
+				android:layout_marginTop="12dp"
+				android:contentDescription="combo_shape"
+				android:src="@drawable/combo_shape" />
+
+		</RelativeLayout>
+	</androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

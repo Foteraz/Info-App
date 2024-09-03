@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- frame_6 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="report_a_problem_string">Report a problem</string>
+	<string name="add_account_string">Add account</string>
+	<string name="log_out_string">Log out</string>
+	<string name="free_up_space_string">Free up space</string>
+	<string name="data_saver_string">Data Saver</string>
+	<string name="my_subscribtion_string">My Subscribtion</string>
+	<string name="help___support_string">Help &amp; Support</string>
+	<string name="terms_and_policies_string">Terms and Policies</string>
+	<string name="edit_profile_string">Edit profile</string>
+	<string name="security_string">security</string>
+	<string name="notifications_string">Notifications</string>
+	<string name="privacy_string">Privacy</string>
+	<string name="actions_string">Actions</string>
+	<string name="settings_string">Settings</string>
+	<string name="cache___cellular_string">Cache &amp; cellular</string>
+	<string name="support___about_string">Support &amp; About</string>
+	<string name="account_string">Account</string>
+	<string name="text_string"> </string>
+	<string name="puma_computing_2023_string">PUMA COMPUTING 2023</string>
+	<string name="puma_computing_2023_ek1_string">PUMA COMPUTING 2023</string>
+	<string name="time_string">9:41</string>
+	<string name="nobody_acc_string">Nobody_Acc</string>
+	<string name="compsphere_string">COMPSPHERE</string>
+	<string name="august_string">AUGUST</string>
+	<string name="_13_string">13</string>
+	<string name="csgo_string">CSGO</string>
+	<string name="february_string">FEBRUARY</string>
+	<string name="_16_string">16</string>
+	<string name="compclub_string">COMPCLUB</string>
+	<string name="april_string">APRIL</string>
+	<string name="_21_string">21</string>
+	<string name="sospro_string">SOSPRO</string>
+	<string name="june_string">JUNE</string>
+	<string name="_22_string">22</string>
+	<string name="hallo_kak__aku_lagi_kepikiran_banget_nih_pengen_gabung_di_organisasi__tapi_ada_satu_hal_yang_bikin_aku_agak_bingung__soalnya_aku_belum_punya_pengalaman_sama_sekali__ada_nggak_tips_dari_kakak_buat_aku_yang_mau_masuk_ke_dunia_organisasi__thanks_a_bunch_sebelumnya_ya__kak_____string">Hallo kak! Aku lagi kepikiran banget nih pengen gabung di organisasi, tapi ada satu hal yang bikin aku agak bingung, soalnya aku belum punya pengalaman sama sekali. Ada nggak tips dari kakak buat aku yang mau masuk ke dunia organisasi? Thanks a bunch sebelumnya ya, kak! </string>
+	<string name="unlock_your_educational_journey_in_2023__registration_string">Unlock your educational journey in 2023! Registration</string>
+	<string name="now_open_for_cloudeka_digischool_scholarships___digischool2023_string"> now open for CloudEka DigiSchool Scholarships. #DigiSchool2023</string>
+	<string name="puma_computing_2023_ek2_string">PUMA COMPUTING 2023</string>
+	<string name="unlock_your_educational_journey_in_2023__registration_ek1_string">Unlock your educational journey in 2023! Registration</string>
+	<string name="now_open_for_cloudeka_digischool_scholarships___digischool2023_ek1_string"> now open for CloudEka DigiSchool Scholarships. #DigiSchool2023</string>
+	<string name="puma_computing_2023_ek3_string">PUMA COMPUTING 2023</string>
+</resources>
